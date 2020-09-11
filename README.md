@@ -1,1 +1,1 @@
-# Linux_Digest
+# Learning PostgreSQL quickly
