@@ -1,1 +1,1 @@
-# Learning PostgreSQL quickly
+# Easy and Fast way of Learning PostgreSQL
